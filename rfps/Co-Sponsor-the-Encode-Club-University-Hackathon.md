@@ -2,6 +2,7 @@
 
 * **Proposer:** k4terin4
 * **Team Name and Description:** Encode Club, a web3 education community made up of a team of approximately 20 people. For a full list of our team members please visit this link [here](https://encodeclub.notion.site/Our-Team-Public-5c892eab37e9496ea84430d761317545)
+* **Level 2**
 
 ## Project Overview :page_facing_up: 
 
